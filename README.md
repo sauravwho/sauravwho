@@ -162,7 +162,6 @@ Distributed Rate Limiter
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sauravwho&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p> -->
-<!--
 ---
 
 # 🏆 GitHub Trophies
@@ -172,7 +171,6 @@ Distributed Rate Limiter
 <img src="https://github-profile-trophy.vercel.app/?username=sauravwho&theme=algolia&column=4&margin-w=15&margin-h=15"/>
 
 </p>
--->
 
 ---
 
