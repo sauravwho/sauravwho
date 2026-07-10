@@ -182,17 +182,17 @@ Distributed Rate Limiter
 
 </p>
 
-<!--
 # 🐍 Contribution Snake
 
-> Enable using GitHub Actions.
 
 <p align="center">
-
-<img src="https://raw.githubusercontent.com/sauravwho/sauravwho/output/github-contribution-grid-snake-dark.svg"/>
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sauravwho/sauravwho/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sauravwho/sauravwho/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/sauravwho/sauravwho/output/github-contribution-grid-snake.svg">
+  </picture>
 </p>
-
+<!--
 ---
 
 # 🎵 Currently Playing
