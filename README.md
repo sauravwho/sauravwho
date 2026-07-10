@@ -123,7 +123,7 @@ Fun Fact:
 
 ### 🔗 Urlify
 
-High-performance URL Shortener
+> High-performance URL Shortener
 
 - Redis Cache
 - Click Analytics
@@ -136,7 +136,7 @@ High-performance URL Shortener
 
 ### 🛡 TokenGate
 
-Distributed Rate Limiter
+> Distributed Rate Limiter
 
 - Token Bucket Algorithm
 - Redis
