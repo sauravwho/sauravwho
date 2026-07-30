@@ -83,14 +83,13 @@ Databases:
   - PostgreSQL
   - MySQL
   - Redis
+  - H2 Database
 
 Learning:
   - System Design
   - Kubernetes
   - Apache Kafka
 
-Fun Fact:
-  "I enjoy turning ideas into scalable backend systems."
 ```
 
 ---
