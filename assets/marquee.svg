@@ -1,0 +1,43 @@
+<svg width="1600" height="80" viewBox="0 0 1600 80"
+     xmlns="http://www.w3.org/2000/svg">
+
+  <rect width="1600" height="80" fill="transparent"/>
+
+  <text
+    y="52"
+    font-family="Inter, Arial, sans-serif"
+    font-size="30"
+    font-weight="600"
+    letter-spacing="2"
+    fill="#67E8F9">
+
+    <tspan>
+      JAVA BACKEND DEVELOPER 
+      •
+      SQL SPRING BOOT ENGINEER 
+      •
+      REST API
+      •
+      GIT 
+      •
+      GITHUB 
+      •
+      POSTMAN 
+      •
+      POSTGRESQL 
+      •
+      OPEN SOURCE 
+      •
+      INTELLIJ IDEA
+      •
+    </tspan>
+
+    <animate
+      attributeName="x"
+      from="-1600"
+      to="0"
+      dur="35s"
+      repeatCount="indefinite"/>
+  </text>
+
+</svg>
