@@ -5,38 +5,40 @@
 
   <text
     y="52"
-    font-family="Inter, Arial, sans-serif"
+    font-family="Georgia, 'Times New Roman', serif"
     font-size="30"
     font-weight="600"
     letter-spacing="2"
-    fill="#67E8F9">
+    fill="#94A3B8">
 
     <tspan>
-      JAVA BACKEND DEVELOPER 
+       JAVA BACKEND DEVELOPER  
       •
-      SQL SPRING BOOT ENGINEER 
+       SQL  
       •
-      REST API
+       SPRING BOOT ENGINEER  
       •
-      GIT 
+        REST API  
       •
-      GITHUB 
+        GIT  
       •
-      POSTMAN 
+        GITHUB  
       •
-      POSTGRESQL 
+        POSTMAN  
       •
-      OPEN SOURCE 
+        POSTGRESQL  
       •
-      INTELLIJ IDEA
+        OPEN SOURCE  
+      •
+        INTELLIJ IDEA  
       •
     </tspan>
 
     <animate
       attributeName="x"
-      from="-1600"
-      to="0"
-      dur="35s"
+      from="1600"
+      to="-1600"
+      dur="25s"
       repeatCount="indefinite"/>
   </text>
 
