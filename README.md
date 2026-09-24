@@ -51,7 +51,7 @@ I'm a Software Developer focusing on building robust, scalable backend systems a
 
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hey, I'm Saurav Kumar
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Exo+2&weight=700&size=30&duration=3500&pause=1000&color=00E5FF&center=true&vCenter=true&width=850&lines=Java+Backend+Developer;Spring+Boot+Engineer;Open+Source+Contributor;System+Design+Learner;Building+Scalable+Applications" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Exo+2&weight=700&size=30&duration=3500&pause=1000&color=00E5FF&center=true&vCenter=true&width=850&lines=Java+Backend+Developer;Spring+Boot+Engineer;Open+Source+Contributor;Building+Scalable+Applications" />
 
 <!-- <img src="https://komarev.com/ghpvc/?username=sauravwho&label=PROFILE+VIEWS&color=00ffff&style=for-the-badge"/>
 
