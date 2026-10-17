@@ -150,17 +150,17 @@ Learning:
 
 ---
 
-# 📊 GitHub Analytics
+<!-- # 📊 GitHub Analytics
 
 <p align="center">
 
 <!-- <img height="170" src="https://github-readme-stats.vercel.app/api?username=sauravwho&show_icons=true&theme=tokyonight&hide_border=true"/> -->
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=sauravwho&theme=dracula&hide_border=true&cache=false"/>
+<!--<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=sauravwho&theme=dracula&hide_border=true&cache=false"/>
 
-</p>
+</p>-->
 
-<!-- <p align="center">
+<!--<p align="center">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sauravwho&layout=compact&theme=tokyonight&hide_border=true"/>
 
@@ -174,7 +174,7 @@ Learning:
 <img src="https://github-profile-trophy.vercel.app/?username=sauravwho&theme=algolia&column=4&margin-w=15&margin-h=15"/>
 
 </p>
--->
+
 ---
 
 # ⚡ Contribution Graph
@@ -183,7 +183,7 @@ Learning:
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=sauravwho&theme=tokyo-night"/>
 
-</p>
+</p>-->
 
 # 🐍 Contribution Snake
 
